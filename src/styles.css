@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+
+h1,H2,H3,H4,div
+{
+    padding: 0.5%;
+}

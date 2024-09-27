@@ -16,5 +16,9 @@ export class LoginComponent
 
 admin:Admin = { email:'', password:''}
 
+login():void{
+
+  this.
+}
 
 }

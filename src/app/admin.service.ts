@@ -23,7 +23,7 @@ login(admin:Admin):void
 this
 .http
 .post<any>(this.APIURL, admin)
-.subscribe(() =>this.admin = admin);
+.subscribe(() =>this.admin = admin, console.log('ok'));
 
 }
 
